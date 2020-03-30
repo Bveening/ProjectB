@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Escaplication.Properties
+namespace Test_forms.Properties
 {
 
 

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Escaplication
+namespace Test_forms
 {
     static class Program
     {
@@ -14,7 +14,6 @@ namespace Escaplication
         [STAThread]
         static void Main()
         {
-            Console.WriteLine("test");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());

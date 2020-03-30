@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0FE2EC45-BECD-4EDD-9E2C-72973244E515}</ProjectGuid>
+    <ProjectGuid>{7EFEAC92-35FF-47D9-99A2-C38416B3164F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Escaplication</RootNamespace>
-    <AssemblyName>Escaplication</AssemblyName>
+    <RootNamespace>Test_forms</RootNamespace>
+    <AssemblyName>Test forms</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
